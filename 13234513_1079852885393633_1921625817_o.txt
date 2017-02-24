@@ -1,0 +1,88 @@
+ 
+
+ 
+
+ 
+
+Auto-ID Systems — The/ Internet of Things — Key
+
+D. HOME ASSIGNMENT
+1 Fill in the gaps with the definite, indeﬁnite orzero article where appropriate.
+
+RFID Systems May Disrupt the Function of Medical Devices _
+The use of radio-frequency identiﬁcation (RFID) Systems in __ hospitals may not be entirely
+sale. new research suggests. RFID tags and the devices they communicate with can disrupt the
+performance of medical equipment. including pacemakers and dialysis machines. potentially
+
+endangering the patients who depend on those devices.
+Medical Center. tested whether the
+
+Researchers at the University of Amsterdam's Academic
+
+presence of RFID transponders and the readers they transmit to could interfere with the function
+of 41 different electronic medical devices. The team examined both an active RFID system. in
+which the tags have _ batteries that allow them to transmit continuously. and a passive system.
+
+whose tags are powered only when in the range of a transmitter's electromagnetic ﬁeld. In 123
+tests. they found 34 incidences of interference.
+
+Of those. the researchers categoan 22 cases as haurdous. meaning that the interference
+a patient. For example. in
+
+caused an equipment fault that could have direct physical impact on
+
+two such incidences. a mechanical ventilator end a syringe pump switched off when the RFID
+system was transmitting near them. The passive RFID tag they used. which had a higher energy
+output and operated at a frequency of 568 megahertz, induced __ three times as many
+
+disruptions as the active system. which operated at 125 kilohertz. None of the tests involved __
+
+patients—lust equipment—and no real-life cases have yet been reported of RFID transponders
+
+causing a device to malfunction. according to the Dutch research.
+
+The health-care market for RFID systems. according to tDTechEx. a consultancy that focuses on
+RFID. is about US $121 million. and the tags are increasingly becoming integrated Into the
+hospital environment. They are used. for instance. to track the location of surgical sponges so
+they are not inadvertently left inside patients. RFID tags are also embedded in bracelets given to
+__ newborn babies to prevent kidnapping
+
+The question remains of how often these interactions between __
+transponders would arise In the dey—to-day operations of a hospital,
+
+Adapted from IEEE Spectrum Oniine. First Published June 2008
+To probe further. go to: mgr/hilvrwsgctmmieeetorg/ unite/6405
+
+lifesaving devices and RFID
+
+Articles continued: ‘
+
+(t) A typical radio frequency identiﬁcation tag consists of (z) a microchip with (a) a copper radio
+antenna spiralling round it. (4) The chip and antenna are mounted on (5) a ﬂexible plastic square to
+produce (6) a thin. tiet tag that can be stuck on anything. The microchip can store up to 2 kilobytes
+of (7)__ data. enough for (o) a unique identifying code in (a) a modiﬁed type of read-only memory.
+(to) The antenna enables the chip to broadcast this Information to (11) a reader when prompted by
+(12) a radio signal. Soon. every single manufactured item will carry (13) a tag,
+
+Hydrogen Tries Again — Key
+F allow-up questions:
+
+C. HOME ASSIGNMENT
+
+ARTICLES
+Complete the passage using the deﬁnite, indeﬁnite, or zero article where appropriate.
+
+The clean green energy dream
+Some visionary engineers see (I) the car of the future as (2) I owcr lant on in col W ' ' ' ' ' ‘
+garage or outside (4) the ofﬁce, you plug its fuel cell into (5) {he mains and scli‘téisthe 
+(7i the‘gnd. So all the time you are not using your vehicle, it earns you (is) money. If (9i the entire US ﬂeet of
+Zqo'mliilo‘n vehicles converted to (10) _ fuel cells and plugged in, thcyw—ouid generate (It) feurtimes the
+gnd s purrcnt capacity. With solar panels on (12) the roof or (13) a wind farm down the road gen-crating hydrogen
+that Will feed (If) a stationary fuel cell in your basement, you can generate (is) sufficient power where and
+Ethan you need it Without (I6) the infrastructure and waste associated with transp—o_rting (l7) electricity long
+dlcia'ijlecgéls) _ energy should be generated and owned locally. It's (i9) a heady vision and—certainly (20) __ ‘
+ay- , Ant-net M‘NMSCMI . r ' ‘3' Jii
+
+   
+  
+
